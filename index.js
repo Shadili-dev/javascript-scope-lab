@@ -7,7 +7,7 @@ function addBurger() {
     burgers.push(newBurger);
 }
 
-if (true) {
+if(true) {
     const anotherNewBurger = 'Maple Bacon Burger';
     burgers.push(anotherNewBurger);
 }
